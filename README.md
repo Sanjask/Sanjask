@@ -1,16 +1,11 @@
 
 ## 🌸 About Me
 
-👋 Hi! I’m Sanjana, an MSCS student at Boston University, passionate about Machine Learning and building thoughtful, well-designed AI systems.
+👋 Hi! I’m Sanjana, an MSCS student at **Boston University** and a software engineer who loves building things that actually make a difference in people's lives.
 
-✨ I’m especially interested in how large models can be made more **modular, efficient, and controllable**, without losing reliability or clarity.
+What excites me most about this work is that connection between what I build and the impact it has software that solves a real problem, makes someone's day a little easier, or helps a team move faster.
 
-🔬 Right now, I’m working on **routing among LoRA experts through dynamic merging**, focusing on efficient composition and selection of fine-tuned expert modules in large models.
-
-💊💸 Beyond research, I’m deeply interested in technology at the intersection of **healthcare and financial services**, where ML systems need to be trustworthy, high-impact, and human-centric.
-
-🌷 I enjoy working on projects that sit between research and real-world deployment, where good ideas actually make a difference.
-
+I'm comfortable across the stack and I genuinely love the variety. From building a wearable glucose monitor to shipping full-stack analytics tools to optimizing LLM systems, my work has covered a lot of ground, and I think that range is exactly what makes me a stronger engineer.
 
 ## 🌐 **Socials**
 
@@ -20,15 +15,6 @@
 
 
 ## 💻 Tech Stack
-
-### 🧠 Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-d00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8caae6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 🧩 Languages
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
@@ -54,6 +40,17 @@
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🧠 Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-d00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8caae6?style=for-the-badge&logo=scipy&logoColor=white)
+
+
 
 
 
