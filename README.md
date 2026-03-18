@@ -1,7 +1,7 @@
 
 ## 🌸 About Me
 
-👋 Hi! I’m Sanjana, an MSCS student at **Boston University** and a software engineer who loves building things that actually make a difference in people's lives.
+Hi! I’m Sanjana, an MSCS student at **Boston University** and a software engineer who loves building things that actually make a difference in people's lives.
 
 What excites me most about this work is that connection between what I build and the impact it has software that solves a real problem, makes someone's day a little easier, or helps a team move faster.
 
